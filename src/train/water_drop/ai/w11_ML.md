@@ -1,7 +1,7 @@
 ---
 title: "AI学习-Week1"
 order: 11
-icon: list-check
+icon: file-lines
 ---
 
 ## DAY1-4：准备阶段
