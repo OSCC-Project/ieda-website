@@ -9,7 +9,7 @@ index: false
 
 
 
- **[J16]**  Bo Yang, Xingquan Li, Jie Zhao, Ying Jiang*. [DD-DeepONet: A domain decomposition DeepONet framework for PDEs on structured domains with geometry and physics variations](/res/papers/26-TCAD-CircuitFlow.pdf), Engineering Analysis with Boundary Elements (EABE), 2026. **(SCI Q1)**
+ **[J16]**  Bo Yang, Xingquan Li, Jie Zhao, Ying Jiang*. **DD-DeepONet: A domain decomposition DeepONet framework for PDEs on structured domains with geometry and physics variations**, Engineering Analysis with Boundary Elements (EABE), 2026. **(SCI Q1)**
 
 
 **[J15]**  Miao Liu , Xinhua Lai , Liwei Ni , Xingyu Meng , Rui Wang , Junfeng Liu , Xingquan Li*, Jungang Xu*. [CircuitFlow: Learning Dynamic Representations for Logic Optimization](/res/papers/26-TCAD-CircuitFlow.pdf), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. **(CCF-A)**
